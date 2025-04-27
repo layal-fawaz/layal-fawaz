@@ -64,6 +64,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/layal-fawaz/layal-fawaz/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://layal-fawaz.github.io/output/snake.svg)
 
 ###
