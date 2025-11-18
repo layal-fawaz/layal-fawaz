@@ -14,4 +14,4 @@ I’m looking to collaborate on projects focused on **software testing, QA, and 
 ---
 
 ## 📂 Portfolio
-Check out my full QA portfolio [Click here](https://github.com/layal-fawaz/QA-Layal-Portfolio))
+Check out my full QA portfolio [Click Here](https://github.com/layal-fawaz/QA-Layal-Portfolio)
