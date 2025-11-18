@@ -1,8 +1,16 @@
-<h1>Hi there I'm Layal 👋🏻</h1>
+<h1>Hi there, I'm Layal 👋🏻</h1>
+
 💫 About Me<br>
-A front-end developer passionate about building clean, beautiful, and user-friendly interfaces.
-I work with HTML, CSS, JavaScript, Bootstrap, Tailwind, PHP, and JavaFX — and I’ve started integrating AI into many areas of my life and work, including programming, video production, image creation, marketing, educational content, storytelling, as well as designing interfaces and creative visuals.
+A QA Tester passionate about ensuring software is reliable, bug-free, and delivers a smooth user experience.  
+My background in **software development** helps me understand code structure and application behavior, which allows me to **identify issues effectively** and improve overall software quality.  
 
-I care deeply about design details and love turning ideas into polished experiences ✨
+I work with **Manual and Automation Testing**, Java (JUnit), SpotBugs, Checkstyle, and web technologies — andI actively use **AI tools** across many areas of my work, including **software development, building projects, testing, automation, analyzing code, improving processes, creating documentation, and supporting software quality**.
 
-I’m looking to collaborate on web projects focused on front-end development and enhancing user experience. I’m excited to explore the endless possibilities AI offers across diverse fields and create innovative, impactful solutions.
+I care deeply about precision and quality, and I love turning ideas into **polished, reliable software experiences** ✨  
+
+I’m looking to collaborate on projects focused on **software testing, QA, and improving user experience**, and I’m excited to explore how AI can help create **innovative and impactful solutions**.
+
+---
+
+## 📂 Portfolio
+Check out my full QA portfolio [(https://github.com/layal-your-portfolio-link](https://github.com/layal-fawaz/QA-Layal-Portfolio))
